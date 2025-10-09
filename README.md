@@ -309,7 +309,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: me@shayshab.xyz
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/IT_Service_Management/discussions)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/IT_Service_Management/issues)
 - 📖 **Documentation**: [Wiki](https://github.com/yourusername/IT_Service_Management/wiki)
