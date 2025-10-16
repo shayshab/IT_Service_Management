@@ -297,29 +297,5 @@ We welcome contributions to improve this ITSM framework! Here's how you can help
 - **Guiding Principles** - Focus on value, start where you are, progress iteratively
 - **Management Practices** - 34 practices including the core ITSM processes
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **ITIL Framework** - Based on AXELOS ITIL v4 best practices
-- **Python Community** - For the excellent tools and libraries
-- **ITSM Professionals** - For sharing knowledge and best practices
-
-## 📞 Support
-
-- 📧 **Email**: me@shayshab.xyz
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/IT_Service_Management/discussions)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/IT_Service_Management/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/IT_Service_Management/wiki)
-
----
-
-<div align="center">
-
-**Built with ❤️ for the IT Service Management Community**
-
-[⭐ Star this repo](https://github.com/yourusername/IT_Service_Management) | [🍴 Fork it](https://github.com/yourusername/IT_Service_Management/fork) | [🐛 Report Bug](https://github.com/yourusername/IT_Service_Management/issues) | [💡 Request Feature](https://github.com/yourusername/IT_Service_Management/issues)
 
 </div>
